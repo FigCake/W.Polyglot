@@ -7,10 +7,12 @@ Language study while you chat with AI characters, in your browser. No install: o
 - **Chat with characters** — Make a character or import a card (`.png` or `.json` from SillyTavern, Chub and similar); replies come in your study language
 - **Annotation** — Highlight vocabulary by CEFR level and grammar in any reply
 - **Translate & look up** — Double-click a sentence to translate it; select a word for its meaning
+- **Whole-message translation** — Optional: a translation under each paragraph of character messages, on a button or for every new message; highlights stay on the original
 - **Input assistant** — Fix or translate what you type before sending
 - **Wordbook & reviews** — Save words, review them on a spaced schedule; words you are learning are underlined in chat
 - **Listen to dialogue** — ▶ after each line reads it aloud, in each character's voice
 - **Study modes** — Flashcards, quizzes, writing practice, matching, dictation and shadowing
+- **Pronunciation checks** — Optional, with your own key: Azure scores word by word, OpenAI transcription, and AI advice on your recording
 - **Anki** — Import and export `.apkg` decks with sounds and pictures
 - **Furigana** — Readings over kanji (Japanese)
 
@@ -30,7 +32,7 @@ Because it lives in the browser, another browser or device starts empty, and cle
 
 ### Requirements
 
-A current Chrome, Edge, Firefox or Safari. Chrome or Edge for pronunciation practice. Some voice services do not accept requests from web pages; the browser's own voice always works.
+A current Chrome, Edge, Firefox or Safari. Pronunciation practice works in Chrome or Edge, or in any browser with an Azure or OpenAI key. Some voice services do not accept requests from web pages; the browser's own voice always works.
 
 ### Notices
 
