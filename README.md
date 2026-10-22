@@ -36,4 +36,4 @@ A current Chrome, Edge, Firefox or Safari. Pronunciation practice works in Chrom
 
 ### Notices
 
-Open-source licenses: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Polyglot is not affiliated with Anki or SillyTavern, and includes no Anki code.
+License: [PolyForm Strict 1.0.0](LICENSE) — free for noncommercial use; no changes or redistribution without permission. Open-source licenses: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Polyglot is not affiliated with Anki or SillyTavern, and includes no Anki code.
